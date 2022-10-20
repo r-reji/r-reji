@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently trying to implement better clustering algorithms for [my Spotify library.](https://github.com/r-reji/spotifyPlaylistClustering)
 
-- 🌱 I’m currently learning machine learning in Python **using scikit learn and TensorFlow.**
+- 🌱 I’m currently learning machine learning in Python using **scikit learn and TensorFlow.**
 
-- 📝 I’m currently researching extensions to k-means **via mappings to Hilbert spaces.**
+- 📝 I’m currently researching extensions to k-means via mappings to Hilbert spaces.
 
 - ⚡ Fun fact: Shrek 2 is the greatest children's film **of all time!**
 
