@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rebin</h1>
+<h1 align="center">👋 Hi, I'm Rebin!</h1>
 <h3 align="center">A CS enthusiast with a background in Mathematics and Physics.</h3>
 
 - 🔭 I’m currently trying to implement better clustering algorithms for my [Spotify project.](https://github.com/r-reji/spotifyPlaylistClustering)
