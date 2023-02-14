@@ -7,7 +7,7 @@
 
 - 📝 I’m currently researching extensions to k-means via mappings to Hilbert spaces.
 
-- ⚡ Fun fact: Shrek 2 is the greatest children's film **of all time!**
+- ⚡ Fun fact: Kung Fu Panda is the greatest children's film **of all time!**
 
 - 📫 You can reach me at **rj.rebin@gmail.com**
 
