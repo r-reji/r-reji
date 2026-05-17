@@ -1,13 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rebin!</h1>
-<h3 align="center">A CS enthusiast with a background in Mathematics and Physics.</h3>
-
-- 🔭 I’m currently trying to implement better clustering algorithms for my [Spotify project.](https://github.com/r-reji/spotifyPlaylistClustering)
-
-- 🌱 I’m currently learning machine learning in Python using **scikit learn and TensorFlow.**
-
-- 📝 I’m currently researching extensions to k-means via mappings to Hilbert spaces.
-
-- ⚡ Fun fact: Kung Fu Panda is the greatest children's film **of all time!**
+<h3 align="center">Software Engineer working in Machine Learning and Robotics.</h3>
 
 - 📫 You can reach me at **rj.rebin@gmail.com**
 
